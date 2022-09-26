@@ -10,13 +10,20 @@ Visit the official [Babylonjs ESM reference page](https://doc.babylonjs.com/setu
 But to quickly cover the topic, the full list of Babylonjs modules you can import into your libarary as external dependencies are...
 
 [```@babylonjs/core```](https://www.npmjs.com/package/@babylonjs/core) - Babylon's core.
-```@babylonjs/materials``` - a collection of Babylon-supported advanced materials.
-```@babylonjs/loaders``` - All of Babylon's official loaders (OBJ, STL, glTF)
-```@babylonjs/post-processes``` - Babylon's post processes.
-```@babylonjs/procedural-textures``` - Officially supported procedural textures
-```@babylonjs/serializers``` - Scene / mesh serializers.
-```@babylonjs/gui``` -Babylon.js GUI module.
-```@babylonjs/inspector``` - The stand-aloneBabylon.js Viewer.
+
+[```@babylonjs/materials```](https://www.npmjs.com/package/@babylonjs/materials) - a collection of Babylon-supported advanced materials.
+
+[```@babylonjs/loaders```](https://www.npmjs.com/package/@babylonjs/loaders) - All of Babylon's official loaders (OBJ, STL, glTF)
+
+[```@babylonjs/post-processes```](https://www.npmjs.com/package/@babylonjs/post-processes) - Babylon's post processes.
+
+[```@babylonjs/procedural-textures```](https://www.npmjs.com/package/@babylonjs/procedural-textures) - Officially supported procedural textures
+
+[```@babylonjs/serializers```](https://www.npmjs.com/package/@babylonjs/serializers) - Scene / mesh serializers.
+
+[```@babylonjs/gui```](https://www.npmjs.com/package/@babylonjs/gui) -Babylon.js GUI module.
+
+[```@babylonjs/inspector```](https://www.npmjs.com/package/@babylonjs/inspector) - The stand-aloneBabylon.js Viewer.
 
 
 ---------------------------
