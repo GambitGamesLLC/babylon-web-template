@@ -25,7 +25,7 @@ But to quickly cover the topic, the full list of Babylonjs modules you can impor
 
 [```@babylonjs/inspector```](https://www.npmjs.com/package/@babylonjs/inspector) - The stand-aloneBabylon.js Viewer.
 
-This template automatically includes ```@babylonjs/core``` as an already included [developer dependency.](https://github.com/GambitGamesLLC/babylon-web-template/blob/main/README.md#how-to-import-a-package-as-a-developer-dependency)
+This template automatically includes ```@babylonjs/core``` as an already included [external dependency.](https://github.com/GambitGamesLLC/babylon-web-template/blob/main/README.md#how-to-set-a-package-as-an-external-dependency)
 
 ---------------------------
 HOW TO CLONE
