@@ -3,11 +3,13 @@ Clone this template to easily get started creating a new [ESM](https://nodejs.or
 
 New to front-end web development? Check out our [Web Developer Guide](https://gambitgames.gitbook.io/web-dev-guide/) for the basics on each tool.
 
+Use this template when you need to create a new Babylonjs library package, but don't need to include any reactive UI components.
+
 ---------------------------
 HOW TO ADD ADDITIONAL BABYLONJS MODULES
 ---------------------------
 Visit the official [Babylonjs ESM reference page](https://doc.babylonjs.com/setup/frameworkPackages/es6Support) for a full explanation on ESM support.
-But to quickly cover the topic, the full list of Babylonjs modules you can import into your libarary as external dependencies are...
+But to quickly cover the topic, the full list of Babylonjs modules you can import into your library as external dependencies are...
 
 [```@babylonjs/core```](https://www.npmjs.com/package/@babylonjs/core) - Babylon's core.
 
