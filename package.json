@@ -1,0 +1,27 @@
+{
+  "name": "babylon-web-template",
+  "private": true,
+  "version": "1.0.0",
+  "types": "./dist/main.d.ts",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/main.umd.js",
+  "module": "./dist/main.es.js",
+  "exports": {
+    ".": {
+      "require": "./dist/main.umd.js",
+      "import": "./dist/main.es.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0",
+    "@babylonjs/core": "^5.25.0"
+  }
+}
